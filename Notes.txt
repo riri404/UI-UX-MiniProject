@@ -1,0 +1,42 @@
+French and English
+
+User expected: Travelers, convention centers, event organizers and companies receiving guests or staff from other countries.
+
+Survey: Administrative Assistants to direction, Startups, Event planners, Hotels managers
+
+Services: Find services near restaurants that can facilitate accecessibility. Build preference and needs profiles. Offer advice on what is appropriate for the guest profile.
+
+Characteristics: Ctring and delivery. Personal or business 
+
+Extras: Doodle, email rsvp, (optional rsvp alert for specific people), (locally store email addresses as an optional feature)
+
+Accessibility:
+Dimmed colours
+Redish colours are never used as indicators but rather as background or aesthetics
+Image description in the meta data
+Dashboard for the profile.
+Explicit booking page confirmation with redirection.
+Audio / Feedback confirmation for bookings and selection.
+Bookings at 15 min intervals
+Select by calendar or by typing
+
+Publicity on the main page. 
+
+Inclusivity awareness: Wheel chair ramp
+
+Usage situation example:
+
+International trade shows, international forums, staff christmass parties, destination weadings, companies based out of the country visiting their branches, companies receiving delegations for businesses negociations, gouvernement staff, military event organizer staff, religious insitutions welcoming pairs from elsewhere, big sports events organizers (olympics, gray cup, formula 1), hotels concierges, touristic attractions staff organizing promotional events.
+
+Example: Old port of montreal are organizing festivals to attract tourist. They expect the events to bring a significant increase in tourism. While the event has all the potential to be a success, the city must have the accomodations capacity to welcome such a number of visitors and provide easy access to the Port.
+
+The faisability study of the project must include availability of transportation, access to different forms of accommodations, access to adapted facilities and services for families, pets, visually impaired people, low hearing communities and limited mobility visitors. Food availability is also an important factor as the promotion of the event must be done in places where the population's eating habits can be fulfilled by the local restaurants and food markets.
+
+The study must also assess the potential unsafe locations for specific populations in order to ensure that the distribution of the expected tourists clusters away from those places.
+
+Our app can provide visibility needed for this important step in the organization of tourism promoting events. This events are part of a strategic plan to stimulate global economy by bringing income in the country while increasing the general GDP.
+
+The province of Quebec has a lot to bring to the table with regards to trade and tourism. Our application not only ease the implementation of economic strategies but also provides a mapping of the current state of the tourism and restauration industry.
+
+The app will also provide visibility on the evolution of the industry through time and can be used to track the insidence of global and local events on the offer and demand of the ... industry.
+
